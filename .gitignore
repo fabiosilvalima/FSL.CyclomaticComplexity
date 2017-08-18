@@ -3,3 +3,8 @@
 ################################################################################
 
 *.suo
+/FSL.CyclomaticComplexity/bin
+/FSL.CyclomaticComplexity/obj/Debug
+*.user
+/packages
+/.vs
